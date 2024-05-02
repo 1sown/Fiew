@@ -1,0 +1,20 @@
+module.exports = [
+    "[serverMemberCount]",
+    "[serverName]",
+    "[serverVanity]",
+    "[serverMember]",
+    "[serverId]",
+    "[serverBotCount]",
+    "[serverCreatedDate]",
+    "[serverCreatedAt]",
+    "[serverBoostCount]",
+    "[serverChannelsCount]",
+    "[serverRolesCount]",
+    "[serverVanityUse]",
+    "[serverMemberOnline]",
+    "[serverMemberVocal]",
+    "[serverMemberOffline]",
+    "[serverMemberDnd]",
+    "[serverMemberIdle]",
+    "[serverMemberOnlineCount]"
+]
